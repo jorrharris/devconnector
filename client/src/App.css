@@ -37,3 +37,16 @@ img {
 .form-control::placeholder {
   color: #bbb !important;
 }
+
+.forPhone {
+  display: inline-block !important;
+}
+
+.table {
+  word-break: break-word;
+  table-layout: fixed;
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  font-size: xx-small;
+}
